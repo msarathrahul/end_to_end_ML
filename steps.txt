@@ -1,0 +1,15 @@
+End to End ML Project
+Setup project with github
+
+1. Data Ingestion
+2. Data Transformation
+3. Model Trainer
+4. Model Evaluation
+5. Model Deployement using FASTAPI
+
+
+Tutorial 1:
+1. Setup github repository
+1.a. New Enviroment 
+1.b. setup.py
+1.c. requirements.txt
