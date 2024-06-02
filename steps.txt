@@ -13,3 +13,9 @@ Tutorial 1:
 1.a. New Enviroment 
 1.b. setup.py
 1.c. requirements.txt
+
+2. Created SRC folder
+
+Tutorial 2:
+1. Create components folder in src folder
+2. In components define data_ingestion, data_transformation, model_trainer python files
